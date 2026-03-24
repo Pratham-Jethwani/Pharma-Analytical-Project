@@ -108,12 +108,12 @@ Power BI (Dashboards & Insights)
 
 ### Executive Dashboard
 
-!(/screenshots/Executive Overview.png)
+!(screenshots/Executive Overview.png)
 
 ### Customer Dashboard
 
-![Customer](/screenshots/Customer Dashboard.png)
+![Customer](screenshots/Customer Dashboard.png)
 
 ### Product & Inventory Dashboard
 
-![Product](/screenshots/Product and Inventory.png)
+![Product](screenshots/Product and Inventory.png)

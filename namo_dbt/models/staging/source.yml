@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: raw
+    database: NAMO_PHARMA_DB
+    schema: RAW
+
+    tables:
+      - name: customers
+      - name: products
+      - name: suppliers
+      - name: product_suppliers
+      - name: warehouses
+      - name: inventory
+      - name: orders
+      - name: order_items
+      - name: payments
+      - name: prescriptions

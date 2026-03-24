@@ -108,7 +108,7 @@ Power BI (Dashboards & Insights)
 
 ### Executive Dashboard
 
-![Executive](screenshots/Executive Overview.png)
+!(screenshots/Executive Overview.png)
 
 ### Customer Dashboard
 
